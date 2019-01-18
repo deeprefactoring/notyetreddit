@@ -5,7 +5,7 @@
 /.idea
 
 # Project settings
-/src/netyetreddit/settings_local.py
+settings_local.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
