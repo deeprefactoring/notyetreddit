@@ -10,6 +10,7 @@ django = "*"
 psycopg2 = "*"
 django-heroku = "*"
 gunicorn = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.7"
